@@ -10,6 +10,15 @@ body {
   background-position: left top;
   font-family: "Zilla Slab", serif;
 }
+.blogs{
+  font-size: 32px;
+ 
+  text-align: center;
+}
+.blogs>a{
+  color: aliceblue;
+  text-decoration: none;
+}
 
 .box-container {
   width: 70%;
