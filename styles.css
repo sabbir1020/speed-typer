@@ -152,6 +152,7 @@ button {
   height: 100%;
   padding: 50px;
   display: flex;
+  display: grid;
   justify-content: space-between;
   align-items: center;
   padding: 20px 30px;
@@ -190,3 +191,9 @@ button {
     flex-direction: column;
   }
 }
+/* @media only screen and (max-width: 1200px){
+ .card{ 
+  
+  grid-template-columns:repeat(auto auto) ;
+ }
+} */
